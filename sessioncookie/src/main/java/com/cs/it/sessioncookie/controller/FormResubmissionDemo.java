@@ -26,27 +26,49 @@ import java.io.IOException;
 public class FormResubmissionDemo {
 
 
-    @RequestMapping("toHtml")
-    public String formReSubToJsp(HttpServletRequest request, HttpServletResponse response){
-        System.out.println("111");
-        return "from";
-    }
-
-
+    /**
+     *  转发到页面
+     * @param request
+     * @param response
+     * @throws ServletException
+     * @throws IOException
+     */
     @RequestMapping("formReSubDispatcher")
     public void formReSub(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //生成token
         String tokenValue = TokenUtils.getToken();
         HttpSession session = request.getSession();
         session.setAttribute("sessionToken",tokenValue);
-        request.getRequestDispatcher("form.jsp").forward(request,response);
+        request.getRequestDispatcher("form.html").forward(request,response);
         //jsp页面 加哥 隐藏域  存token
     }
 
 
+    /**
+     * 请求
+     * @param request
+     * @param response
+     */
+    @RequestMapping("settData")
+    public void request(HttpServletRequest request, HttpServletResponse response){
+        if(!isSubmit(request)){
+            System.out.println("你已经提交了数据===或者 token错误");
+            return;
+        }
+        String userName = request.getParameter("userName");
+        System.out.println("用户名:" + userName);
+        request.getSession().removeAttribute("sessionToken");
+    }
+
+
+    /**
+     * token验证
+     * @param request
+     * @return
+     */
     public Boolean isSubmit(HttpServletRequest request){
         String paramToken = request.getParameter("paramToken");
-        String sessionToken = (String) request.getSession().getAttribute(paramToken);
+        String sessionToken = (String) request.getSession().getAttribute("sessionToken");
         if(sessionToken == null){
             return false;
         }
@@ -55,9 +77,5 @@ public class FormResubmissionDemo {
             return false;
         }
         return true;
-    }
-
-    public void request(HttpServletRequest request, HttpServletResponse response){
-
     }
 }
