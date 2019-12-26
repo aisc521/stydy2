@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis123/mybatis123.iml" filepath="$PROJECT_DIR$/mybatis123/mybatis123.iml" />
       <module fileurl="file://$PROJECT_DIR$/sessioncookie/sessioncookie.iml" filepath="$PROJECT_DIR$/sessioncookie/sessioncookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/stydy2.iml" filepath="$PROJECT_DIR$/stydy2.iml" />
     </modules>
   </component>

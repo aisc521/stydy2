@@ -6,7 +6,12 @@
 
     <groupId>com.cs.it</groupId>
     <artifactId>stydy2</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>mybatis</module>
+        <module>mybatis</module>
+    </modules>
 
 
 </project>
