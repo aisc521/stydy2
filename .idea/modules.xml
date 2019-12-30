@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-springv2/itmayiedu-springv2.iml" filepath="$PROJECT_DIR$/itmayiedu-springv2/itmayiedu-springv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis123/mybatis123.iml" filepath="$PROJECT_DIR$/mybatis123/mybatis123.iml" />
       <module fileurl="file://$PROJECT_DIR$/sessioncookie/sessioncookie.iml" filepath="$PROJECT_DIR$/sessioncookie/sessioncookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />

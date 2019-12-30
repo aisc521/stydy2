@@ -51,7 +51,19 @@ package com.cs.it.base.spring.controller;
  *                2）set
  *                3）p 标签
  *
- * 14.
+ * 14.springAop : cglib动态代理
+ *
+ *
+ *
+ * 代理设计模式 ： 静态代理
+ *                动态代理 jdk动态代理    ：jdk使用反射
+ *                        cglib 动态代理 ：asm
+ *
+ * 15.@Resource 和 @Autiwer  的区别是：
+ *                               Resource 是spring框架自带 / 默认以名称查找
+ *                               Autiwer 是jdk1.6之后才有的 /默认以类型查找
+ *
+ * 16.aop编程其实就是 让关注代码与业务代码分离   重复代码 就叫做关注点  关注点形成的类就叫做切面
  *
  **/
 

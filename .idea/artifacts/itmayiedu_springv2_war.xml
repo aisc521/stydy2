@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itmayiedu-springv2:war">
+    <output-path>$PROJECT_DIR$/itmayiedu-springv2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>itmayiedu-springv2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="itmayiedu-springv2-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="itmayiedu-springv2:war exploded" />
+    </root>
+  </artifact>
+</component>

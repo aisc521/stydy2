@@ -2,8 +2,20 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-springv2/src/main/java/com/itmayiedu/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-springv2/src/main/java/com/itmayiedu/service/LogService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-springv2/src/main/java/com/itmayiedu/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-springv2/src/main/java/com/itmayiedu/transaction/TransactionManager.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mybatis123" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis123/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis123/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sessioncookie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sessioncookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sessioncookie/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/src/main/resources" charset="UTF-8" />
   </component>
 </project>
