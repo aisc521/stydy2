@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00504559-2eb3-4a6b-8547-a81784a12e59" name="Default" comment="过滤器11">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/mybatis123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/src/main/java/com/cs/it/mybatis123/Mybatis123Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis123/src/test/java/com/cs/it/mybatis123/Mybatis123ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/sessioncookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/SessioncookieApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/CookieDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/CustomCacheDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/CustomCacheDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/FilterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/FilterDemoRequestDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/FormResubmissionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/SessionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/controller/WebXSSDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/entity/Cache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/utils/CacheManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/utils/SessionUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/utils/TokenUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/com/cs/it/sessioncookie/utils/XssAndSplHttpServletWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/static/js/jquery-2.1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/static/js/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessioncookie/target/classes/templates/from.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/com/cs/it/base/spring/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/test/java/com/cs/it/base/spring/ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\studyCode\studycode\stydy2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/developTool/apache-maven-3.2.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VgL9IIpsqQ1AhJFKTBxPMQMrRw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/developTool/apache-tomcat-9.0.19" />
+    <property name="nodejs_interpreter_path" value="E:/developTool/node/node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\studyCode\studycode\stydy2\http\src\main\resources\static\js\js\js" />
+      <recent name="E:\studyCode\studycode\stydy2\http\src\main\resources\static\js\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cs.it.http.filter" />
+      <recent name="com.cs.it.http.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\studyCode\studycode\stydy2\http\src\main\resources\templates" />
+      <recent name="E:\studyCode\studycode\stydy2\mybatis\src\main" />
+      <recent name="E:\studyCode\studycode\stydy2\http\src\main\resources\static" />
+      <recent name="E:\studyCode\studycode\stydy2\http\src\main\webapp\themes\img" />
+      <recent name="E:\studyCode\studycode\stydy2\http\src\main\webapp\themes\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.sessioncookie">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="http" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.it.http.HttpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sessioncookie" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sessioncookie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.it.sessioncookie.SessioncookieApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mybatis:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_stydy2_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61127" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mybatis:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.sessioncookie" />
+      <item itemvalue="Spring Boot.HttpApplication" />
+      <item itemvalue="Tomcat Server.mybatis" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00504559-2eb3-4a6b-8547-a81784a12e59" name="Default" comment="" />
+      <created>1577258330694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577258330694</updated>
+      <workItem from="1577258333282" duration="8842000" />
+      <workItem from="1577321824703" duration="25349000" />
+      <workItem from="1577408200224" duration="3008000" />
+      <workItem from="1577667853565" duration="1653000" />
+      <workItem from="1577669756511" duration="521000" />
+      <workItem from="1577670510531" duration="483000" />
+      <workItem from="1577671018212" duration="548000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1577267170134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577267170134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="过滤器">
+      <created>1577325327192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577325327192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="过滤器">
+      <created>1577353345693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577353345693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="过滤器11">
+      <created>1577670243535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577670243535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="过滤器" />
+    <MESSAGE value="过滤器11" />
+    <option name="LAST_COMMIT_MESSAGE" value="过滤器11" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577670181211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577670181211" />
+    <state x="2344" y="11" key="CommitChangelistDialog2" timestamp="1577671587716">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577670242062" />
+    <state x="2344" y="11" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577671587716" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1577670994158">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577670994158" />
+    <state x="2507" y="346" key="StringManipulation.SortTypeDialog" timestamp="1577671346068">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2507" y="346" key="StringManipulation.SortTypeDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577671346068" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1577670248339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577670248339" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1577671131669">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577671131669" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mybatis:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (mybatis)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|mybatis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
