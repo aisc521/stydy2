@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="itmayiedu-springv2" />
-        <module name="spring" />
-        <module name="sessioncookie" />
-        <module name="mybatis123" />
         <module name="http" />
+        <module name="mybatis123" />
+        <module name="spring" />
+        <module name="itmayiedu-springv2" />
+        <module name="boot" />
+        <module name="sessioncookie" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="boot" target="1.8" />
       <module name="http" target="1.8" />
       <module name="itmayiedu-springv2" target="1.5" />
       <module name="mybatis" target="1.5" />
@@ -25,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot" options="-parameters" />
       <module name="http" options="-parameters" />
       <module name="mybatis123" options="-parameters" />
       <module name="sessioncookie" options="-parameters" />
