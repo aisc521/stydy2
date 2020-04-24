@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQ/ActiveMQ.iml" filepath="$PROJECT_DIR$/ActiveMQ/ActiveMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/boot.iml" filepath="$PROJECT_DIR$/boot/boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot+jsp/boot (1).iml" filepath="$PROJECT_DIR$/boot+jsp/boot (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
       <module fileurl="file://$PROJECT_DIR$/itmayiedu-springv2/itmayiedu-springv2.iml" filepath="$PROJECT_DIR$/itmayiedu-springv2/itmayiedu-springv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis123/mybatis123.iml" filepath="$PROJECT_DIR$/mybatis123/mybatis123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/sessioncookie/sessioncookie.iml" filepath="$PROJECT_DIR$/sessioncookie/sessioncookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jpa-2/spring-jpa-2.iml" filepath="$PROJECT_DIR$/spring-jpa-2/spring-jpa-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jsp/springboot-jsp.iml" filepath="$PROJECT_DIR$/springboot-jsp/springboot-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/stydy2.iml" filepath="$PROJECT_DIR$/stydy2.iml" />
     </modules>
   </component>

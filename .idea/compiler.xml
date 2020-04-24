@@ -6,30 +6,43 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-jsp" />
         <module name="http" />
-        <module name="mybatis123" />
+        <module name="spring-jpa-2" />
         <module name="spring" />
         <module name="itmayiedu-springv2" />
+        <module name="mybatis123" />
+        <module name="redis" />
         <module name="boot" />
+        <module name="ActiveMQ" />
         <module name="sessioncookie" />
+        <module name="boot (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ActiveMQ" target="1.8" />
       <module name="boot" target="1.8" />
+      <module name="boot (1)" target="1.8" />
       <module name="http" target="1.8" />
       <module name="itmayiedu-springv2" target="1.5" />
       <module name="mybatis" target="1.5" />
       <module name="mybatis123" target="1.8" />
+      <module name="redis" target="1.8" />
       <module name="sessioncookie" target="1.8" />
       <module name="spring" target="1.8" />
+      <module name="spring-jpa-2" target="1.6" />
+      <module name="springboot-jsp" target="1.8" />
       <module name="stydy2" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ActiveMQ" options="-parameters" />
       <module name="boot" options="-parameters" />
+      <module name="boot (1)" options="-parameters" />
       <module name="http" options="-parameters" />
       <module name="mybatis123" options="-parameters" />
+      <module name="redis" options="-parameters" />
       <module name="sessioncookie" options="-parameters" />
       <module name="spring" options="-parameters" />
     </option>

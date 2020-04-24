@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/itmayiedu-springv2" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-jsp" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -13,12 +14,12 @@
         <option value="$PROJECT_DIR$/spring/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-springv2/pom.xml" />
         <option value="$PROJECT_DIR$/boot/pom.xml" />
+        <option value="$PROJECT_DIR$/boot+jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jpa-2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/ActiveMQ/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
